@@ -5,7 +5,7 @@ This readme document is for the github repository. This will help as a reminder 
 Previously, we tried using [jekyllnow]() a jekyll template to build the website.
 
 Now, we are going hardcore and building it from jekyll directly.  
-You may call us hardcore, but we are taking this as an opportunity to learn a little bit about `ruby` as well.
+We are taking this as an opportunity to learn a little bit about `ruby` as well.
 
 Ruby is a web framework and jekyll is a framework that works directly with github pages. So that is nice.
 
@@ -40,3 +40,46 @@ _site/
 vendor/
 ```
 
+## _config.yml
+
+This YAML file provides default data to the rest of the github-pages. This file needn't be updated frequently.  
+Somewhere on the internet says to create _data folder and add key/value there if changes are required. 
+
+From our experience so far, we need the following yml key values. These can be overridden in other locations.
+- `title:` Title of the website. Usually name 
+- `description:` Description of the website
+- `url:` Link of the site. https://example.com
+- `baseurl:` Usually website's base url without the hostname. eg `/blog`
+- `avatar:` Picture that appears on nav bars and pages.
+
+
+## _posts
+
+These is where blog posts will be written. Blog Posts should be written in the format of YYYY-MM-DD:Title.md
+
+
+## _drafts
+
+If the author wants to write drafts of posts and wants to look at them before moving to the __posts, this is where they stay
+
+
+If we are using specific jekyll- themes the following two will be taken care by the theme. However if we want custom layouts and includes, here is where we do it.
+
+
+## _layouts
+
+Layouts or front matter of each page. Create layouts for each kind of pages: some examples:
+
+- home
+- post
+
+
+## _includes
+
+Put all additional html and javascript files that are needed for multiple pages. Some example/ideas:  
+
+- head/meta
+- footer
+- analytics
+- disqus commenting
+- nav bar

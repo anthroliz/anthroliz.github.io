@@ -1,5 +1,0 @@
----
-layout: default
----
-
-this is a test page. Trying to see how the layout looks
