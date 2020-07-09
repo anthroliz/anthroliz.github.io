@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>Test Post</title>
+      <link>/post/test-post/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test-post/</guid>
+      <description>This is an attempt to write a blog post
+This will be a heading smaller heading   bullet 1</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>

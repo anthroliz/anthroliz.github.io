@@ -27,7 +27,7 @@ builtWith = true
 
 ## Set custom theme color.
 # themeColor = "#fc2803" #red
-themeColor = "#db8a0f" #orange
+# themeColor = "#db8a0f" #orange
 
   [[params.socialIcons]]
   icon = "fa-envelope"
