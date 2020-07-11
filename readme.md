@@ -1,4 +1,4 @@
-# [Anthroliz](https://anthroliz.github.io)
+# [Anthroliz](https://anthroliz.netlify.app)
 
 Personal website created on Rstudio using [`blogdown`](https://bookdown.org/yihui/blogdown/get-started.html). Open the link for blogdown help. 
 This uses [`hugo`](https://gohugo.io) static site generator
@@ -10,13 +10,13 @@ Notes on how to work on this.
 - `git clone` from github to local machine
 - `branch` check which branch the project is on and if that is the branch the work needs to happen. Okay to work on `master` branch but my presonal preferance is to create a new branch, make changes, validate, then merge it to master.
 - open the `.Rproj` file using rstudio
-- install `blogdown` package through RStudio if not installed already
+- install `blogdown` package through RStudio if not installed already. Also install all the dependencies.
 - to run site on rstudio console, type `blogdown::serve_site()` or select _Serve Site_ from __Addins__ button on Rstudio
 
 
 ### Creating a New post
 
-- From the __Addins_ button on Rstudio select new post. Fill in post title, author, date and other metadata and the type of file. This will be added on the YAML frontmatter.
+- From the __Addins__ button on Rstudio select new post. Fill in post title, author, date and other metadata and the type of file. This will be added on the YAML frontmatter.
 - Once hist submitted, the file will be ready to be typed up. Based on the filetype, different things can be achieved. eg. `.mmark` file can be used if rendering math equations etc. `.Rmd` can be used to create post with R code and the output along with text materials. `.md` can be used to write simple markup post.
 - Once the file is saved, it is already updated on the local website.
 
@@ -37,10 +37,12 @@ Here, some git workflow is needed.
 4. `push` the branch to `remote` ie. github.com. Better to keep the local and remote branch the same.
 
 Additionally
-5. `pull request` the recently pushed branch from github if it was NOT master. The website builds from `docs` subdirectory on `master`
+5. `pull request` the recently pushed branch from github if it was NOT master. 
+
+The website builds ~~from `docs` subdirectory on `master`~~ in [netlify](htttps://netlify.com) using the hugo engine.
 
 
-At this point, hopefully everything worked fine. the updated site should be live at https://anthroliz.github.io. If not, who is afraid of debugging, right?
+At this point, hopefully everything worked fine. Currently, the website is set to continuously deploy from this github master branch. The updated site should be live at https://anthroliz.netlify.app . If not, who is afraid of debugging, right?
 
 Issues to fix:
 - Homepage not rendering to default (check the theme setting or change)
