@@ -1,5 +1,7 @@
 # [Anthroliz](https://anthroliz.netlify.app)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5f6af4bc-0f77-49be-ae8e-cf357269d6f1/deploy-status)](https://app.netlify.com/sites/anthroliz/deploys)
+
 Personal website created on Rstudio using [`blogdown`](https://bookdown.org/yihui/blogdown/get-started.html). Open the link for blogdown help. 
 This uses [`hugo`](https://gohugo.io) static site generator
 
