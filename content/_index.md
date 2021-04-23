@@ -3,6 +3,5 @@ author: Hugo Authors
 title: Soho Theme
 ---
 
-## This site is under construction
+## Elizabeth Agey: Biological Anthropologist
 
-We will create the home page soon
