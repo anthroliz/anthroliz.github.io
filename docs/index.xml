@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Courses</title>
-      <link>/teaching/courses/</link>
+      <title>Test Post</title>
+      <link>/post/test-post/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/courses/</guid>
-      <description></description>
+      <guid>/post/test-post/</guid>
+      <description>This is an attempt to write a blog post
+This will be a heading smaller heading   bullet 1</description>
     </item>
     
     <item>
