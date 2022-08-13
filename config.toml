@@ -11,26 +11,27 @@ paginate = 5
 # disqusShortname = "anthroliz"
 canonifyURLs=true
 publishDir="docs"
-# ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-title = "Elizabeth Agey"
-description = "Biological Anthropologist"
-# gravatar = "soho@example.com"
-images = ["images/profile.png"]
-profilePicture = "images/octocat.png"
-copyright = "E. Agey"
-license = "CC BY-SA 4.0"
-licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
-builtWith = true
-# mainSections = ["main"]
+  title = "Elizabeth Agey"
+  description = "Anthropologist"
+  keyword = "educator,researcher,higher-education"
+  # gravatar = "soho@example.com"
+  profilePicture = "images/elizabeth.jpg"
+  copyright = "E. Agey"
+  license = "CC BY-SA 4.0"
+  licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+  builtWith = true
+  mainSections = ["main"]
+  rtl = false
 
 ## Set custom theme color.
 # themeColor = "#fc2803" #red
 # themeColor = "#db8a0f" #orange
 
   [[params.socialIcons]]
-  icon = "fa-envelope"
+  icon = "fa fa-envelope"
   title = "Email"
   url = "mailto:eagey@ucsb.edu"
   
@@ -57,22 +58,22 @@ builtWith = true
 [menu]
   
   [[menu.main]]
-  name = "Posts"
+  name = "Research"
   weight = 100
-  identifier = "posts"
-  url = "/posts/"
+  identifier = "research"
+  url = "/research/"
 
-  [[menu.main]]
-  name = "Categories"
-  weight = 200
-  identifier = "categories"
-  url = "/categories/"
+  #[[menu.main]]
+  #name = "Categories"
+  #weight = 200
+  #identifier = "categories"
+  #url = "/categories/"
 
-  [[menu.main]]
-  name = "Tags"
-  weight = 200
-  identifier = "tags"
-  url = "/tags/"
+  #[[menu.main]]
+  #name = "Tags"
+  #weight = 200
+  #identifier = "tags"
+  #url = "/tags/"
 
   [[menu.main]]
   name = "About"
@@ -81,10 +82,10 @@ builtWith = true
   url = "/about/"
 
   [[menu.main]]
-  name = "Contact"
-  identifier = "contact"
-  weight = 20
-  url = "/contact/"
+  name = "CV"
+  identifier = "cv"
+  weight = 200
+  url = "/CV.pdf"
   
   [[menu.main]]
   name = "Teaching"
