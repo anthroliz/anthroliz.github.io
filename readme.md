@@ -14,6 +14,7 @@ Notes on how to work on this.
 - open the `.Rproj` file using rstudio
 - install `blogdown` package through RStudio if not installed already. Also install all the dependencies.
 - to run site on rstudio console, type `blogdown::serve_site()` or select _Serve Site_ from __Addins__ button on Rstudio
+- if `[hugo](gohugo.io)` is not installed, install it from blogdown by running `blogdown::install_hugo()`.  
 
 
 ### Creating a New post
