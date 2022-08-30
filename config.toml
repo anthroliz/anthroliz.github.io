@@ -7,6 +7,8 @@ enableInlineShortcodes = true
 summarylength = 10
 enableEmoji = true
 paginate = 5
+relativeURLs = true
+unsafe = true
 
 # disqusShortname = "anthroliz"
 canonifyURLs=true
@@ -27,6 +29,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   rtl = false
 
 ## Set custom theme color.
+  themeColor = "#5D2423" #maroon
 # themeColor = "#fc2803" #red
 # themeColor = "#db8a0f" #orange
 
