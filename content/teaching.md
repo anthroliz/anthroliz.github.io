@@ -28,9 +28,9 @@ I aim to help students achieve critical thinking and analytical skills that can 
 
 ### Selected Course Materials
 
-- Syllabus, Introduction to Biological Anthropology, Summer 2022
+- [Syllabus](/teaching/s22syllabus.pdf), Introduction to Biological Anthropology, Summer 2022
 
 - [Recorded lecture](https://gauchocast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b69bfbd-6c7e-4ebe-a882-aed6012b71f8) for flipped classroom, Introduction to Biological Anthropology, Summer 2022
 
 
-- Sample assignment and rubric, Introduction to Biological Anthropology, Summer 2022
+- [Sample assignment and rubric](/teaching/s22project.pdf), Introduction to Biological Anthropology, Summer 2022
