@@ -1,8 +1,8 @@
-# Elizabeth Agey
-## _PhD Candidate_
+# Elizabeth Agey, _PhD_
+## _Postdoctoral Researcher_
 ## University of California, Santa Barbara
 
-My research focuses on the reasons why we prefer certain individuals as mates and marriage partners, and how those choices affect fertility, health  and wellbeing. 
+My research focuses on the reasons why we prefer certain individuals as mates and marriage partners, and how those choices affect fertility, health, and wellbeing. 
 
 ![Fieldwork in Nepal](/images/lizagey.jpg)
 
