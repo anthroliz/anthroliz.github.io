@@ -4,7 +4,6 @@
 
 My research focuses on the reasons why we prefer certain individuals as mates and marriage partners, and how those choices affect fertility, health, and wellbeing. 
 
-<img src="/images/lizagey.jpg" alt="Fieldwork in Nepal" width="200"/>
 ![Fieldwork in Nepal](/images/lizagey.jpg)
 
 ### Keywords  
