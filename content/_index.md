@@ -2,16 +2,18 @@
 ## _Postdoctoral Researcher_
 ## University of California, Santa Barbara
 
-My research focuses on the reasons why we prefer certain individuals as mates and marriage partners, and how those choices affect fertility, health, and wellbeing. 
+My research focuses on the way family and community impact decisions about family formation, and how those decisions translate to differences in fertility, health, and wellbeing. 
 
 ![Fieldwork in Nepal](/images/lizagey.jpg)
 
 ### Keywords  
 _Mate Choice_  
-_Attraction_  
 _Marriage_  
-_Arranged Marriage_  
-_Parent-offspring Disagreement_  
+_Arranged Marriage_
+_Parenting_
+_Parent-offspring Disagreement_
+_Social Influence_
+_Decision Making_
 _Nepal_  
 _Mixed Methods_  
 
@@ -19,5 +21,5 @@ _Mixed Methods_
 
 ### Affiliations
 
-[Broom Center](https://broomcenter.ucsb.edu/people/elizabeth-agey)  
-[UCSB Department of Anthropology](https://anth.ucsb.edu/people/elizabeth-agey)
+[Computational Mate Choice Lab, UCSB](https://www.danconroybeam.com/people)
+[UCSB Psych & Brain Sciences Department](https://psych.ucsb.edu/people/researchers/elizabeth-agey)

@@ -8,9 +8,9 @@ I aim to help students achieve critical thinking and analytical skills that can 
 
 ### Instructor:
 
+- Evolutionary Psychology, Spring 2023
 - Introduction to Biological Anthropology, Summer 2022
 
-- Evolutionary Psychology, Scheduled Spring 2023
 
 ### Lead Teaching Assistant:
 
@@ -27,6 +27,7 @@ I aim to help students achieve critical thinking and analytical skills that can 
 - Introduction to Biological Anthropology, Fall 2015/Spring 2016
 
 ### Selected Course Materials
+- [Syllabus](/teaching/EPs23syllabus.pdf), Evolutionary Psychology, Spring 2023
 
 - [Syllabus](/teaching/s22syllabus.pdf), Introduction to Biological Anthropology, Summer 2022
 
