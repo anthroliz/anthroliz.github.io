@@ -1,6 +1,9 @@
 # Elizabeth Agey, _PhD_
-## _Postdoctoral Researcher_
-## University of California, Santa Barbara
+
+
+## _Assistant Professor_ 
+### Department of Anthropology
+## University of Hawai'i at Mānoa
 
 My research focuses on the reasons why we prefer certain individuals as mates and marriage partners, and how those choices affect fertility, health, and wellbeing. 
 

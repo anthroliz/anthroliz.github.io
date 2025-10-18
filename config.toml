@@ -6,9 +6,11 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 summarylength = 10
 enableEmoji = true
-paginate = 5
 relativeURLs = true
 unsafe = true
+
+[pagination]
+  pagerSize = 5
 
 # disqusShortname = "anthroliz"
 canonifyURLs=true
@@ -83,6 +85,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "about"
   weight = 10
   url = "/about/"
+
+  [[menu.main]]
+  name = "Students"
+  identifier = "students"
+  weight = 30
+  url = "/students/"
 
   [[menu.main]]
   name = "CV"
