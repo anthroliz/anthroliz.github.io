@@ -1,6 +1,9 @@
 # Elizabeth Agey, _PhD_
-## _Postdoctoral Researcher_
-## University of California, Santa Barbara
+
+
+## _Assistant Professor_ 
+### Department of Anthropology
+## University of Hawai'i at Mānoa
 
 My research focuses on the way family and community impact decisions about family formation, and how those decisions translate to differences in fertility, health, and wellbeing. 
 
