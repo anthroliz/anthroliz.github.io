@@ -1,1 +1,3 @@
-Add students info here
+I am currently accepting applications for MA or PhD students who are excited about using an evolutionary perspective to test hypotheses about the function of human behavior. Students should familiarize themselves with my research and the Anthropology Department at UH Mānoa, and your application should explain why I (and the program) would be a good fit for your interests. Applicants should identify a topic or set of questions they are interested in researching in their statement of purpose. I strongly encourage MA or PhD students who are interested in working with me to email prior to applying to assess fit.
+
+I also have opportunities available for undergraduates who would like to gain research experience. Undergraduates should send an email that includes their CV/Resume, unofficial transcript, and a short statement (<5 sentences) detailing why they are interested in our research and what skills they would like to develop.
